@@ -1,0 +1,12 @@
+requests
+bs4
+datetime
+rich
+colorama
+pyfiglet
+tqdm 
+pystyle
+argparse
+pycryptodome
+AES
+cloudscraper
